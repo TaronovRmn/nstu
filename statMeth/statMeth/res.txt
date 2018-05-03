@@ -1,0 +1,3 @@
+Reference method right: 437 wrong: 55
+Method: 0 Right: 487 Wrong: 5 Better: 51 Worse: 1
+Method: 1 Right: 458 Wrong: 34 Better: 24 Worse: 3
